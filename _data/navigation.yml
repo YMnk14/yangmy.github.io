@@ -3,8 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
          
-  - title: "Education"
-    url: /year-archive/
+- title: "teaching"
+    url: /teaching/
+         
     
     
  
