@@ -3,11 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
          
-  - title: "Blog Posts"
+  - title: "Education"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ 
